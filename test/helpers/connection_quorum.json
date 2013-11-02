@@ -1,0 +1,8 @@
+{
+  "cqlVersion"        : "3.0.0",
+  "hosts"             : ["localhost:9160"],
+  "user"              : "test",
+  "password"          : "test1233",
+  "timeout"           : 3000,
+  "consistencylevel"  : 2
+}
